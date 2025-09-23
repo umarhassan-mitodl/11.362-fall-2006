@@ -1,0 +1,57 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Environmental Management"
+    ],
+    [
+      "Social Science",
+      "Public Administration"
+    ]
+  ],
+  "legacy_uid": "c704dc0b-de22-bdc0-e7dd-becfd829e436",
+  "instructors": {
+    "content": [
+      "56ca3cd8-390d-576b-79ba-f9363a5ab133"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4de10935-d240-9a94-4679-2c0ae48732ed",
+    "website": "11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006"
+  },
+  "course_title": "Environmental Management Practicum: Brownfield Redevelopment",
+  "course_description": "Through site-specific client-based work, this course will allow students to materially contribute to redevelopment decision-making regarding a former inner-city industrial site. The course will focus on generating and analyzing pragmatic redevelopment scenarios given the issues of brownfields and environmental contamination, community preferences, regulatory constraints and economic realities.\n\nThe course is designed along two parallel and mutually reinforcing educational tracks: Field learning and classroom reflection, with ample time built into the schedule for both. As the course will focus on an actual site, there will be a sizeable portion of student time spent on location and in the surrounding community.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.362",
+  "course_image_thumbnail": {
+    "content": "e11f3571-3941-0a8d-0001-50de8790d8ea",
+    "website": "11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006"
+  },
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "site_uid": "da7d80cf-7f72-4f52-9448-8e69679eaf6e",
+  "site_short_id": "11.362-fall-2006",
+  "site_url_path": "courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006",
+  "title": "Course Metadata"
+}
