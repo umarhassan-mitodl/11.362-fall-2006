@@ -14,7 +14,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisite
 
-[*11.370 Brownfields Policy and Practice*](https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/) or permission of instructor.
+{{% resource_link "3f7e060c-3b8b-4f9b-8e77-9a18da5794ee" "*11.370 Brownfields Policy and Practice*" %}} or permission of instructor.
 
 ## Goal
 
