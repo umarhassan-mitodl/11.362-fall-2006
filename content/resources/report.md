@@ -4,6 +4,8 @@ description: Example of a completed final report for the course.
 file: /courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/1d6e6553d70b6e65e64132e4c41deac0_report.pdf
 file_size: 2285560
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

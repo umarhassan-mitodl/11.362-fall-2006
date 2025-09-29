@@ -3,6 +3,8 @@ content_type: page
 description: This section provides an example of a completed final report and a community
   presentation prepared by students. These are courtesy of Katherine Wallace, Laura
   Machala, and Sharlene Leurig, and are used with permission.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
